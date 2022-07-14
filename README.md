@@ -1,25 +1,43 @@
-## Welcome!
-Welcome to my GitHub profile, my name is [kcg-devnextra](https://www.github.com/kcg-devnextra, "My GitHub Profile").
+### About Me
+Hello! Allow me to introduce myself, I am kcg-devnextra. I love to program but I rather see it as a hobby for myself,
+something to do in my spare time, rather than something I would find a job in, although it could still be an option.
+I mainly spend my time creating Discord bots in
+<img
+  align="inline-block"
+  src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+  alt="JavaScript logo"
+  width="14px"
+  height="14px"
+/> JavaScript with the
+<img
+  align="inline-block"
+  src="https://discord.js.org/static/djs_logo.png"
+  alt="Discord.js Logo"
+  width="14px"
+  height="14px"  
+/> [Discord.js](https://discord.js.org/) package, but I am also learning to create bots with
+<img
+  align="inline-block"
+  src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+  alt="TypeScript logo"
+  width="14px"
+  height="14px"
+/> TypeScript. I might begin to learn about web development as well, we'll see...
 
-## About Me:
-I love cars, but I also love to code (which is why i'm here), I use [Visual Studio Code](https://code.visualstudio.com/, "Visual Studio Code Website")
-— or it's [Insiders](https://code.visualstudio.com/insiders/) version — as my editor, I usually spend my time creating Discord bots.
-I code in the following languages…
-- <img align="inline-block" src="https://tinyurl.com/js-logo-png" height="15px" alt="JavaScript Icon, PNG"> JavaScript
-- <img align="inline-block" src="https://tinyurl.com/node-js-icon-png" height="15px" alt="Node.JS Icon, PNG"> [Node.JS](https://nodejs.org/en/)
-- <img align="inline-block" src="https://tinyurl.com/discordjs-icon-png" height="15px" alt="Discord.JS Icon, PNG"> [Discord.JS](https://discord.js.org/#/)
-- <img align="inline-block" src="https://tinyurl.com/html5-icon-png" height="15px" alt="HTML(5) Icon, PNG"> HTML(5)
-- <img align="inline-block" src="https://tinyurl.com/css3-icon-png" height="15px" alt="CSS(3) Icon, PNG"> CSS(3)
+---
 
-### My Desktop Specs:
-- **Desktop**: <img align="inline-block" src="https://tinyurl.com/apple-logo-png" height="15px" alt="Apple Logo, PNG"> Apple iMac (21.5-inch, Mid 2011)
-- **Operating System**: <img align="inline-block" src="https://tinyurl.com/macos-logo-png" height="15px" alt="macOS Logo, PNG"> macOS High Sierra (10.13.6)
-- **Processor**: <img align="inline-block" src="https://tinyurl.com/intel-logo-png" height="15px" alt="Intel Logo, PNG"> 2.5 GHz Intel Core i5
-- **Memory**: 4 GB 1333 MHz DDR3
-- **Storage**: 500 GB
-- **Graphics**: <img align="inline-block" src="https://tinyurl.com/amd-radeon-logo-png" height="15px" alt="AMD Radeon Logo, PNG"> AMD Radeon HD 6750M 512 MB
+### My Computer Specs
+I recently got a new laptop, one that performs way better than the old iMac that I had previously,
+here are its specs if you're interested (I am also comparing it to my old iMac).\
+Although it may not seem like much, it is a massive improvement to me.
 
-### Contact me
-If need be, you can contact me in by one of the following ways…
-- **Email**: kcg.gamesnextra@gmail.com
-- **[Discord](https://discord.com/)**: Dubzz#9053
+| Component   | Name/Quantity (Laptop)                     | Name/Quantity (iMac)        |
+|:-----------:|--------------------------------------------|-----------------------------|
+| **OS**      | Windows 11                                 | macOS High Sierra (10.13.6) |
+| **CPU**     | 11th Gen Intel Core i5-11260H @ 2.6 GHz    | 2.5 GHz Intel Core i5       |
+| **GPU(0)**  | Intel UHD Graphics                         | AMD Radeon HD 6750M 512 MB  |
+| **GPU(1)**  | NVIDIA GeForce RTX 3050 Laptop GPU (4GB)\* | N/A                         |
+| **Memory**  | 8 GB DDR4\*\*                              | 4 GB 1333 MHz DDR3          |
+| **Storage** | 512 GB                                     | 500 GB                      |
+###### \* Yes, it is a gaming laptop, what more could I say ¯\\\_(ツ)\_/¯
+###### \*\* I will be upgrading the memory soon to 16 GB
